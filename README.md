@@ -62,3 +62,7 @@ Conceptos Programáticos Fundamentales
 - Se aprovecha la encapsulación y abstracción para definir clases que representan elementos del cubo (por ejemplo, Cubo, Cara, Movimiento), métodos para manipularlos y constructores para inicializar su estado.
 
 Este ejercicio desarrolla competencias en estructuras de datos complejas, manipulación de objetos y aplicación de algoritmos que simulan procesos reales, vinculando un problema popular con fundamentos de programación avanzada.
+
+## 6. Imagen de Referencia
+<img width="1323" height="945" alt="image" src="https://github.com/user-attachments/assets/d067c8e0-27e5-4c71-b935-47d46a8c079b" />
+
